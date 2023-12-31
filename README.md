@@ -1,5 +1,5 @@
 # TwitterAnalysis 
-The " TweetVibe Insights : Unveiling World Event Analysis" project is a comprehensive guide to building a analysis model
+The " Twitter Sentiment analysis " project is a comprehensive guide to building a analysis model
 specifically focused on Twitter data. This model aims to uncover people's attitudes and feelings towards various topics.
 In this project, we'll delve into creating a  model to understand how people are expressing their views regarding various
 topics. By analyzing real time tweets from Twitter, we will harness the power of machine learning to distinguish and 
